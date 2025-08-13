@@ -1,0 +1,28 @@
+{
+  "name": "@vjshi/vjshi-video-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@9.9.0",
+  "description": "光厂官方视频素材搜索MCP Server，提供商用正版高清视频素材搜索服务",
+  "author": "光厂(vjshi)",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "mcp-server-vjshi-map": "dist/index.js"
+  },
+  "engines": {
+    "pnpm": "9.9.0"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc && shx chmod +x dist/*.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "@types/node-fetch": "^2.6.12",
+    "node-fetch": "^3.3.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "shx": "^0.4.0"
+  }
+}
