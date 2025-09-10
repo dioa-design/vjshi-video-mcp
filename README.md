@@ -1,32 +1,58 @@
-# Overview
-You can search for licensed high-definition commercial video material in AI model clients that support the MCP protocol.
+# 🎬 VJshi MCP Video Search Tool
 
-# Features
-Search and recommend relevant video materials from Guangchang's tens of millions of licensed high-definition commercial videos
-- Get structured results with titles and links
+## 📖 About This Project
+🔍 Search for licensed high-quality commercial videos in AI clients that support MCP protocol
 
-# Getting Started
-1. Get a Key
-You need to obtain a server key from the [GuangChang MCP](https://open.vjshi.com/mcp) to access the search API capabilities.
+---
 
-2. Complete Configuration
-Please replace YOUR_API_KEY with your key and add the following code to an MCP-compatible tool (such as Claude App, Cherry Studio, Cursor, Cline, Windsurf, etc.)
+## ✨ Main Features
+🎯 Find and get video recommendations from VJshi's huge library of licensed high-quality commercial video content
+
+### What You Get:
+- 🎥 Huge library of licensed, high-quality videos
+- 🏢 Commercial licence included - no copyright worries
+- 🚀 Quick and smart search results
+- 📋 Easy-to-use output format
+
+---
+
+## 🚀 Getting Started
+
+### Step 1️⃣: Get Your API Key
+🔑 Go to the [VJshi MCP](https://open.vjshi.com/mcp) to get your server key
+
+> 💡 **Note**: You need this key to use the search feature
+
+### Step 2️⃣: Set It Up
+⚙️ Replace `YOUR_API_KEY` with your real key, then add this setup to your MCP-compatible AI client
+
+**Works With:** Claude App, Cherry Studio, Cursor, Cline, Windsurf, and more
 
 ```json
-    {
-      "mcpServers": {
-        "vjshi-video-mcp": {
-          "command": "npx",
-          "args": ["-y","@vjshi/vjshi-video-mcp"],
-          "env": {
-            "VJSHI_API_KEY": "YOUR_API_KEY"
-          },
-          "disabled": false,
-          "isActive": true
-        }
-      }
+{
+  "mcpServers": {
+    "vjshi-video-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@vjshi/vjshi-video-mcp@latest"
+      ],
+      "env": {
+        "VJSHI_API_KEY": "YOUR_API_KEY"
+      },
+      "disabled": false,
+      "isActive": true
     }
+  }
+}
 ```
 
-# License
-This project is licensed under the MIT License - see the LICENSE file for details.
+---
+
+## 📄 Licence
+📜 This project uses the **MIT Licence**. Check the LICENSE file for full details.
+
+---
+
+## 🤝 Get Help
+Got questions or ideas? Visit [VJshi MCP](https://open.vjshi.com/mcp) for more support!
