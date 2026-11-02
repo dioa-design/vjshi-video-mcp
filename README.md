@@ -19,7 +19,7 @@
 ## 🚀 Getting Started
 
 ### Step 1️⃣: Get Your API Key
-🔑 Go to the [VJshi MCP](https://open.vjshi.com/mcp) to get your server key
+🔑 Go to the [VJshi MCP](https://www.vjshi.com/open/mcp) to get your server key
 
 > 💡 **Note**: You need this key to use the search feature
 
@@ -55,4 +55,4 @@
 ---
 
 ## 🤝 Get Help
-Got questions or ideas? Visit [VJshi MCP](https://open.vjshi.com/mcp) for more support!
+Got questions or ideas? Visit [VJshi MCP](https://www.vjshi.com/open/mcp) for more support!

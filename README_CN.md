@@ -21,7 +21,7 @@
 ## 🚀 快速开始
 
 ### 步骤1️⃣：获取API密钥
-🔑 前往 [光厂MCP官网](https://open.vjshi.com/mcp) 页面获取服务端密钥
+🔑 前往 [光厂MCP官网](https://www.vjshi.com/open/mcp) 页面获取服务端密钥
 
 > 💡 **提示**：通过密钥您才能够使用搜索功能
 
@@ -57,4 +57,4 @@
 ---
 
 ## 🤝 联系我们
-如有问题或建议，欢迎访问 [光厂MCP](https://open.vjshi.com/mcp) 获取更多帮助！
+如有问题或建议，欢迎访问 [光厂MCP](https://www.vjshi.com/open/mcp) 获取更多帮助！

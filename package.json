@@ -1,6 +1,6 @@
 {
   "name": "@vjshi/vjshi-video-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "packageManager": "pnpm@9.9.0",
   "description": "光厂官方视频素材搜索MCP Server，提供商用正版高清视频素材搜索服务",
