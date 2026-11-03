@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dioa-design-vjshi-video-mcp-badge.png)](https://mseep.ai/app/dioa-design-vjshi-video-mcp)
+
 # 🎬 VJshi MCP Video Search Tool
 
 ## 📖 About This Project
